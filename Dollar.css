@@ -1,0 +1,19 @@
+body{
+  background:#8DEEEE;
+}
+.button{
+  margin:10% auto 0 auto;
+  height:100px;
+  width:100px;
+  border-radius:50%;
+  box-shadow: 8px 4px #EE9A00;
+  background: #FFAA00;
+}
+
+.dollar{
+  font-size: 50px;
+  color:#ee9a00;
+  text-shadow: 2px 1px #B8860B;
+  text-align: center;
+  padding-top:20px;
+}
